@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin_home_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_product_adding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_product_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_product_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_sales_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff_adding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_stock_adding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_stock_viewing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

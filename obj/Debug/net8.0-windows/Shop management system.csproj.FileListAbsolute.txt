@@ -1,0 +1,54 @@
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Shop management system.exe
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Shop management system.deps.json
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Shop management system.runtimeconfig.json
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Shop management system.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Shop management system.pdb
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Login_page.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\refint\Shop management system.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.pdb
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\ref\Shop management system.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Properties.Resources.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_home_page.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_staff_adding.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_staff_home.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_staff_view.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_staff_edit.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_staff_delete.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_product_adding.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_product_home.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_product_view.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_stock_adding.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_stock_viewing.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop management system.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop man.CE496CE8.Up2Date
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Admin_sales_view.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\obj\Debug\net8.0-windows\Shop_management_system.Staff_billing.resources
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Hp\source\repos\Shop management system\Shop management system\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
